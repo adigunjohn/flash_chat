@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108687229900",
+    "project_id": "flash-chat-c8608",
+    "storage_bucket": "flash-chat-c8608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108687229900:android:895da93ff6ad8b0f0c5369",
+        "android_client_info": {
+          "package_name": "com.jonny.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108687229900-nog814q7s1cjggehbtl21nghoj3uj6n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWcMwHc-r1J6JwoMr6xM3tlc6VdmfvP7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108687229900-nog814q7s1cjggehbtl21nghoj3uj6n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
